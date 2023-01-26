@@ -8,7 +8,7 @@ Mautic is an open-source marketing automation software that helps businesses aut
 
 ### 🥈 Run
 
-- [http://localhost:8040/](http://localhost:8040/) username : `admin` password : `admin`
+- [http://localhost:80/](http://localhost:80/) username : `admin` password : `admin`
 
 ```shell
 docker-compose up -d
