@@ -45,8 +45,10 @@ services:
 
 networks:
   default:
+    name: docker_mautic_network
     driver: bridge
 
 volumes:
   data:
+    name: docker_mautic_data
     driver: local
